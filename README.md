@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitoz107
+- 👋 Hi, I’m Rohit Nikam
 - 👀 I’m interested in Graphics Programming
 - 🌱 I’m currently learning OpenGL
 
